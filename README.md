@@ -2,13 +2,10 @@
 
 In GitBash folgende Befehle eingeben:
 
-cd devops/docker
-
-vagrant up
-
-vagrant ssh
-
-docker run hello-world
+  cd devops/docker
+  vagrant up
+  vagrant ssh
+  docker run hello-world
 
 
 Hello from Docker!
